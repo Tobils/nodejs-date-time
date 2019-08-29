@@ -11,9 +11,9 @@ h2{
   border-bottom: 4px dashed #bdc3c7;
   text-align: center;
   font-weight: bold;
-  font-size: 2em;
-  width: 300px; 
-  height: 60px; /*awal 100px*/
+  font-size: 6em;
+  width: 600px; 
+  height: 100px; /*awal 100px*/
   line-height: 60px; 
   margin: 40px auto;
   letter-spacing: 1px;
@@ -21,4 +21,4 @@ h2{
 }
 
 
-/* source : https://codepen.io/juanbrujo/pen/uIqaw */
+/* source : https://codepen.io/juanbrujo/pen/uIqaw */ 
